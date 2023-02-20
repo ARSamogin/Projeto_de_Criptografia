@@ -1,0 +1,2 @@
+Esse arquivo esta sendo utilizado como teste para um ataque de criptografia (ramsomware), caso este texto esteja legivel, 
+ou a cifragem nao funcionou ou foi descriptografado com sucesso.
